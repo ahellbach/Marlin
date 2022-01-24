@@ -1,3 +1,23 @@
+# Customized for my setup. Use with caution. 
+
+- Ender 3 v2, 4.2.2 mainboard
+- Original BLTouch v3, not the Creality kit!
+- Connected to printer via original dupont extension cable (3pin, 2pin)
+
+Upside-down view of Mainboard:
+```
+        (B-R-Y-x-x)
+        Bltouch port
+        
+   (B-W)
+   Z-limit port
+```
+
+- 5x5 probing
+- offsets for Ender 3 V2 3DTouch/BLTouch Mount by jkostenov
+- Possibly some other surprises
+
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
