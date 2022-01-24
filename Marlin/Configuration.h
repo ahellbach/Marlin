@@ -1621,7 +1621,7 @@
 
   // Set the number of grid points per dimension.
   // xxx to do 
-  #define GRID_MAX_POINTS_X 3
+  #define GRID_MAX_POINTS_X 5
   #define GRID_MAX_POINTS_Y GRID_MAX_POINTS_X
 
   // Probe along the Y axis, advancing X after each column
